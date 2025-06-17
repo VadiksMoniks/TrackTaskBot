@@ -1,7 +1,7 @@
 <?php 
 
 class Bot {
-    private $key = "8135316071:AAGEWaliqcivHVsv1xK3I3uutnP237oIvC8";
+    private $key = "";
     private $apiUrl;
     private $taskStatus = [
         'new' => 'новая',
